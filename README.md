@@ -3,13 +3,13 @@
 The Flipkart Review Scraper Web Application is a web-based application designed to extract product reviews from Flipkart. The application is built using Python and Flask framework. The application deployed on Amazon Web Services (AWS) Elastic Beanstalk, which is a fully managed service that makes it easy to deploy and scale web applications.
 The scraper collects product reviews and provides them to users in a structured format for further analysis.
 
-##Features
+## Features
 The Flipkart Review Scraper Web Application includes the following features:
-####Input: The scraper takes a product URL as input.
-####Output: The scraper outputs reviews for the specified product in a structured format, including reviewer name, rating, review title, and review content.
-####User Interface(UI): The scraper has a simple user interface that allows users to enter a Flipkart product URL and show reviews in a structured format.
+#### Input: The scraper takes a product URL as input.
+#### Output: The scraper outputs reviews for the specified product in a structured format, including reviewer name, rating, review title, and review content.
+#### User Interface(UI): The scraper has a simple user interface that allows users to enter a Flipkart product URL and show reviews in a structured format.
 
-##Requirements
+## Requirements
 To use the Flipkart Review Scraper Web Application, you will need the following:
 * Python 3
 * beautifulsoup4==4.9.1
@@ -31,8 +31,8 @@ To use the Flipkart Review Scraper Web Application, you will need the following:
 * Werkzeug==1.0.1
 * pymongo
 
-##Deployed on AWS Elastic Beanstalk
+## Deployed on AWS Elastic Beanstalk
 
-##Conclusion
+## Conclusion
 The Flipkart Review Scraper Web Application is a simple and effective tool for collecting and analyzing product reviews from Flipkart.com. With its user-friendly interface, it is an excellent choice for anyone looking to gain insights from Flipkart reviews.
 
